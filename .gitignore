@@ -3,3 +3,5 @@ data/
 cloudbox
 block-server
 metadata-server
+.DS_Store
+restored_go.mod
