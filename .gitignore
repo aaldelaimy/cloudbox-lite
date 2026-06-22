@@ -1,0 +1,5 @@
+data/
+*.db
+cloudbox
+block-server
+metadata-server
